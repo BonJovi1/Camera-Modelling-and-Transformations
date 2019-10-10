@@ -2,7 +2,9 @@
 
 ## LiDAR Camera Fusion 
 
-Open folder q1, and run `jupyter-notebook Q1.ipynb` OR `python3 q1.py`
+Open folder q1, and run `jupyter-notebook Q1.ipynb` OR `python3 q1.py`  
+If the notebook doesn't load on GitHub, use the nbviewer:  
+https://nbviewer.jupyter.org/github/BonJovi1/Camera-Modelling-and-Transformations/blob/master/q1/Q1.ipynb  
 
 The question: 
 
@@ -16,7 +18,9 @@ Then, using this computed transformation and the provided camera calibration mat
 
 ## 3D Bounding Box
 
-Open folder q2, and run `jupyter-notebook Q2.ipynb` OR `python3 q2.py`
+Open folder q2, and run `jupyter-notebook Q2.ipynb` OR `python3 q2.py`  
+If the notebook doesn't load on GitHub, use the nbviewer:  
+https://nbviewer.jupyter.org/github/BonJovi1/Camera-Modelling-and-Transformations/blob/master/q2/Q2.ipynb  
 
 The question:
 
@@ -24,7 +28,9 @@ You’ve been provided with an image, also taken from a self-driving car, that s
 
 ## April Tags
 
-Open folder q3, and run `jupyter-notebook Q3.ipynb` OR `python3 q3.py`
+Open folder q3, and run `jupyter-notebook Q3.ipynb` OR `python3 q3.py`  
+If the notebook doesn't load on GitHub, use the nbviewer:  
+https://nbviewer.jupyter.org/github/BonJovi1/Camera-Modelling-and-Transformations/blob/master/q3/Q3.ipynb
 
 The question:
 
